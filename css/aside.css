@@ -1,0 +1,74 @@
+.LeftAside{
+    /* background-color: aquamarine; */
+    /* width: 15%; */
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.LeftAside ul{
+    list-style: none; 
+}
+.LeftAside li{
+    padding-top: 2%;
+}
+ .LeftAside a{
+    text-decoration: none;
+    color: white;
+}
+.BottomBorder{
+    border-bottom: 1px solid gray;
+    margin-bottom: 5%;
+}
+
+#fewText{
+    margin-left: 5%;
+    padding-bottom: 15px;
+}
+
+#SignInBTN{
+    padding: 8px 18px;
+    color: #3ea6ff;
+    font-weight: bold;
+    border-radius: 20px;
+    border: 1px solid gray;
+    margin-bottom: 6%;
+    margin-left: 5%;
+}
+
+#SignInBTN:hover{
+    background-color: #c9dcee;
+    cursor: pointer;
+}
+/* .material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+} */
+
+.Elements-1, .Elements-2, .Elements-3, .Elements-4, .Elements-5, .Elements-6, .Elements-7, .Elements-8, .Elements-9, .Elements-10, .Elements-11, .Elements-12, .Elements-13{
+    /* background-color: pink; */
+    height: 5vh;
+    margin-left: 4%;
+    background-color: transparent;
+}
+.Icon-1, .Icon-2, .Icon-3, .Icon-4, .Icon-5, .Icon-6, .Icon-7, .Icon-8, .Icon-9, .Icon-10, .Icon-11, .Icon-12, .Icon-13{
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.Text-1, .Text-2, .Text-3, .Text-4, .Text-5, .Text-6, .Text-7, .Text-8, .Text-9, .Text-10, .Text-11, .Text-12, .Text-13{
+    display: inline-block;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+.Elements-1, .Elements-2:hover, .Elements-3:hover, .Elements-4:hover, .Elements-5:hover, .Elements-6:hover, .Elements-7:hover, .Elements-8:hover, .Elements-9:hover, .Elements-10:hover, .Elements-11:hover, .Elements-12:hover
+, .Elements-13:hover{
+    background-color: gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.Icon-1:hover, .Text-1:hover{
+    background-color: gray;
+}

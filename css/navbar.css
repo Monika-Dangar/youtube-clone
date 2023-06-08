@@ -1,0 +1,98 @@
+#nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 15px;
+    /* background-color: yellow; */
+}
+.left{
+    display: inline-block;
+    width: 20%;
+    cursor: pointer;
+}
+#logoOfYT{
+    height: 8vh;
+}
+.left :nth-child(1){
+    padding: 5px 5px;
+}
+.left :nth-child(1):hover{
+    background-color: rgb(196, 186, 186);
+    cursor: pointer;
+    border-radius: 25px;
+}
+.middle{
+    display: flex;
+    width: 55%;
+    align-items: center;
+}
+.middle input[type=search]{
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+    border: 1px solid gray;
+}
+.middle button{
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+    border-right: 1px solid gray;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.middle :nth-child(3){
+    margin-left: 2%;
+    padding: 5px 5px;
+}
+.middle :nth-child(3):hover{
+    background-color: rgb(196, 186, 186);
+    cursor: pointer;
+    border-radius: 25px;
+}
+.left{
+    display: flex;
+    align-items: center;
+}
+input[type=search]{
+    margin-left: 15%;
+    padding-right: 55%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: 1px solid gray;
+}
+input::placeholder{
+    padding-left: 10px;
+    /* font-weight: bold; */
+    font-size: 16px;
+}
+.right{
+    display: flex;
+    width: 20%;
+    flex-direction: row;
+    justify-content:end;
+    align-items: center;
+    /* background-color: tomato; */
+}
+.right :nth-child(1):hover{
+    cursor: pointer;
+}
+.AccIcon-SignIn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    color: #3ea6ff;
+    cursor: pointer;
+    border-radius: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: 1px solid gray;
+}
+
+.AccIcon-SignIn:hover{
+    background-color: #c9dcee;
+} 
+
+
