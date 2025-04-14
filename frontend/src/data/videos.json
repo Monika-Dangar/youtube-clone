@@ -1,0 +1,354 @@
+{
+    "videos": [
+        {
+            "_id": "video01",
+            "title": "Learn React in 30 Minutes",
+            "videoUrl": "https://www.youtube.com/watch?v=hQAHSlTtcmY",
+            "thumbnailUrl": "https://i.ytimg.com/vi/hQAHSlTtcmY/maxresdefault.jpg",
+            "description": "In this crash course I will take you through the basics of React including development environment setup, components, state, props, rendering lists, HTTP requests and more.",
+            "Channel": {
+                "_id": "channel01",
+                "channelName": "Web Dev Simplified",
+                "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lcC9SQP-WBK3ZYkIWUcS5kzQtPJN6-LR3GiY=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 1532000,
+            "likes": 42300,
+            "dislikes": 450,
+            "uploadDate": "2019-07-15T18:30:00Z",
+            "subscriberCount": 1250000,
+            "comments": [
+                {
+                    "_id": "comment01",
+                    "user": {
+                        "_id": "user02",
+                        "username": "WebDevMaster",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=WebDevMaster"
+                    },
+                    "content": "This was super helpful! I've been trying to learn React for a while now and this really cleared things up.",
+                    "createdAt": "2023-09-21T08:30:00Z"
+                },
+                {
+                    "_id": "comment02",
+                    "user": {
+                        "_id": "user03",
+                        "username": "CodeNinja",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CodeNinja"
+                    },
+                    "content": "Great explanation of state and props. Could you do a follow-up on hooks?",
+                    "createdAt": "2023-09-22T12:15:00Z"
+                }
+            ]
+        },
+        {
+            "_id": "video02",
+            "title": "React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+            "videoUrl": "https://www.youtube.com/watch?v=RVFAyFWO4go",
+            "thumbnailUrl": "https://i.ytimg.com/vi/RVFAyFWO4go/maxresdefault.jpg",
+            "description": "This React JS Full Course for Beginners is a complete tutorial for React beginners. It covers React JS extensively, React Hooks, React Routers, Redux, and React Projects. It includes React JS theory and React Practice code with complete project examples.",
+            "Channel": {
+                "_id": "channel02",
+                "channelName": "Dave Gray",
+                "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mEnkIRpfAn0QqrUMa0Ell6iLO7PfXGYH25BmyJ=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 984500,
+            "likes": 26780,
+            "dislikes": 310,
+            "uploadDate": "2022-03-27T12:00:00Z",
+            "subscriberCount": 349000,
+            "comments": [
+                {
+                    "_id": "comment03",
+                    "user": {
+                        "_id": "user04",
+                        "username": "ReactFanatic",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ReactFanatic"
+                    },
+                    "content": "This is by far the most comprehensive React course I've found. The way you explain concepts makes them so clear!",
+                    "createdAt": "2023-10-05T16:42:00Z"
+                }
+            ]
+        },
+        {
+            "_id": "video03",
+            "title": "Next.js 14 Tutorial - Full Course for Beginners",
+            "videoUrl": "https://www.youtube.com/watch?v=843nec-IvW0",
+            "thumbnailUrl": "https://i.ytimg.com/vi/843nec-IvW0/maxresdefault.jpg",
+            "description": "In this Next.js 14 course, you'll go from the basics to building a full-stack app with the latest features from Next.js 14. App Router, Server Actions, Postgres, Prisma, Auth, modern loading, error states, and much more!",
+            "Channel": {
+                "_id": "channel03",
+                "channelName": "freeCodeCamp.org",
+                "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mD95kW9TeQs3qjHvrsXKGjFUFGT7SrFNKLSGPUiA=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 456200,
+            "likes": 18290,
+            "dislikes": 204,
+            "uploadDate": "2023-12-01T14:15:00Z",
+            "subscriberCount": 8400000,
+            "comments": [
+                {
+                    "_id": "comment04",
+                    "user": {
+                        "_id": "user05",
+                        "username": "JSDevPro",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=JSDevPro"
+                    },
+                    "content": "The app router explanation was so clear! Can't believe this is free content.",
+                    "createdAt": "2024-01-03T09:21:00Z"
+                },
+                {
+                    "_id": "comment05",
+                    "user": {
+                        "_id": "user06",
+                        "username": "NextJSLearner",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=NextJSLearner"
+                    },
+                    "content": "I just finished building my first project after watching this. Thank you!",
+                    "createdAt": "2024-01-10T17:30:00Z"
+                }
+            ]
+        },
+        {
+            "_id": "video04",
+            "title": "Build a ChatGPT AI App in JavaScript - OpenAI API",
+            "videoUrl": "https://www.youtube.com/watch?v=05D-2t5EASI",
+            "thumbnailUrl": "https://i.ytimg.com/vi/05D-2t5EASI/maxresdefault.jpg",
+            "description": "Learn to build your own ChatGPT-like AI application using OpenAI API, working with environment variables, managing fake users, building server-side routes and more!",
+            "Channel": {
+                "_id": "channel04",
+                "channelName": "JavaScript Mastery",
+                "avatar": "https://yt3.googleusercontent.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 721800,
+            "likes": 31250,
+            "dislikes": 275,
+            "uploadDate": "2023-06-15T10:30:00Z",
+            "subscriberCount": 1180000,
+            "comments": [
+                {
+                    "_id": "comment06",
+                    "user": {
+                        "_id": "user07",
+                        "username": "AIEnthusiast",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=AIEnthusiast"
+                    },
+                    "content": "I implemented this in my startup project and it works flawlessly! Thank you for the tutorial.",
+                    "createdAt": "2023-06-16T14:20:00Z"
+                }
+            ]
+        },
+        {
+            "_id": "video05",
+            "title": "TypeScript Tutorial - Full Course for Beginners",
+            "videoUrl": "https://www.youtube.com/watch?v=30LWjhZzg50",
+            "thumbnailUrl": "https://i.ytimg.com/vi/30LWjhZzg50/maxresdefault.jpg",
+            "description": "Learn TypeScript from scratch by building a shopping cart application. This TypeScript course includes all TypeScript basics, types, compiler config, functions, and more.",
+            "Channel": {
+                "_id": "channel05",
+                "channelName": "Dave Gray",
+                "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mEnkIRpfAn0QqrUMa0Ell6iLO7PfXGYH25BmyJ=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 642100,
+            "likes": 21430,
+            "dislikes": 198,
+            "uploadDate": "2023-01-10T09:45:00Z",
+            "subscriberCount": 349000,
+            "comments": [
+                {
+                    "_id": "comment07",
+                    "user": {
+                        "_id": "user08",
+                        "username": "TypeScriptFan",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=TypeScriptFan"
+                    },
+                    "content": "Finally understanding generics thanks to this video!",
+                    "createdAt": "2023-01-12T11:30:00Z"
+                },
+                {
+                    "_id": "comment08",
+                    "user": {
+                        "_id": "user09",
+                        "username": "WebDevStudent",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=WebDevStudent"
+                    },
+                    "content": "The shopping cart example really helps apply the concepts in a real-world scenario.",
+                    "createdAt": "2023-01-15T08:15:00Z"
+                }
+            ]
+        },
+        {
+            "_id": "video06",
+            "title": "React Native Crash Course 2023",
+            "videoUrl": "https://www.youtube.com/watch?v=mJ3bGvy0WAY",
+            "thumbnailUrl": "https://i.ytimg.com/vi/mJ3bGvy0WAY/maxresdefault.jpg",
+            "description": "In this React Native crash course, you'll learn how to build a React Native app from scratch, including setup, components, navigation, styling, and more.",
+            "Channel": {
+                "_id": "channel06",
+                "channelName": "Lama Dev",
+                "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lVbj7-p1RfJjLHxFONrBu9GCVgGP7SNu-t7PXU=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 389500,
+            "likes": 17620,
+            "dislikes": 231,
+            "uploadDate": "2023-08-20T15:20:00Z",
+            "subscriberCount": 421000,
+            "comments": [
+                {
+                    "_id": "comment09",
+                    "user": {
+                        "_id": "user10",
+                        "username": "MobileDev",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=MobileDev"
+                    },
+                    "content": "Just published my first app after following this tutorial. Thanks for making it so easy to understand!",
+                    "createdAt": "2023-08-23T19:10:00Z"
+                }
+            ]
+        },
+        {
+            "_id": "video07",
+            "title": "CSS Tutorial - Full Course for Beginners",
+            "videoUrl": "https://www.youtube.com/watch?v=OXGznpKZ_sA",
+            "thumbnailUrl": "https://i.ytimg.com/vi/OXGznpKZ_sA/maxresdefault.jpg",
+            "description": "Learn CSS from scratch with this comprehensive beginner's tutorial. This course covers selectors, box model, flexbox, grid, responsive design, animations, and more.",
+            "Channel": {
+                "_id": "channel03",
+                "channelName": "freeCodeCamp.org",
+                "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mD95kW9TeQs3qjHvrsXKGjFUFGT7SrFNKLSGPUiA=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 1089400,
+            "likes": 39670,
+            "dislikes": 312,
+            "uploadDate": "2021-11-05T12:30:00Z",
+            "subscriberCount": 8400000,
+            "comments": [
+                {
+                    "_id": "comment10",
+                    "user": {
+                        "_id": "user11",
+                        "username": "CSSMaster",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CSSMaster"
+                    },
+                    "content": "The flexbox explanation finally made it click for me!",
+                    "createdAt": "2021-11-06T14:25:00Z"
+                },
+                {
+                    "_id": "comment11",
+                    "user": {
+                        "_id": "user12",
+                        "username": "DesignNovice",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=DesignNovice"
+                    },
+                    "content": "I've been struggling with CSS for years and this course finally made me understand it. Thank you!",
+                    "createdAt": "2021-11-10T16:35:00Z"
+                }
+            ]
+        },
+        {
+            "_id": "video08",
+            "title": "MongoDB Crash Course 2023",
+            "videoUrl": "https://www.youtube.com/watch?v=2QQGWYe7IDU",
+            "thumbnailUrl": "https://i.ytimg.com/vi/2QQGWYe7IDU/maxresdefault.jpg",
+            "description": "Learn MongoDB from scratch in this comprehensive crash course. Topics include CRUD operations, aggregation framework, indexing, data modeling best practices, and more.",
+            "Channel": {
+                "_id": "channel07",
+                "channelName": "Web Dev Simplified",
+                "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lcC9SQP-WBK3ZYkIWUcS5kzQtPJN6-LR3GiY=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 378200,
+            "likes": 16480,
+            "dislikes": 134,
+            "uploadDate": "2023-09-12T08:15:00Z",
+            "subscriberCount": 1250000,
+            "comments": [
+                {
+                    "_id": "comment12",
+                    "user": {
+                        "_id": "user13",
+                        "username": "DatabasePro",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=DatabasePro"
+                    },
+                    "content": "The aggregation pipeline examples were super helpful for my work project.",
+                    "createdAt": "2023-09-13T10:40:00Z"
+                }
+            ]
+        },
+        {
+            "_id": "video09",
+            "title": "How To Build A Weather App In React JS | Weather App React JS Project From Scratch",
+            "videoUrl": "https://www.youtube.com/watch?v=Reny0cTTv24",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Reny0cTTv24/maxresdefault.jpg",
+            "description": "Learn how to create a beautiful, functional weather application using React and OpenWeatherMap API. This tutorial teaches API integration, state management, and responsive design principles.",
+            "Channel": {
+                "_id": "channel08",
+                "channelName": "Tyler Potts",
+                "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kE4VDuZFRgr4y2QYKdtJrbZuXUvxXtlnAzrGuz=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 246700,
+            "likes": 9870,
+            "dislikes": 118,
+            "uploadDate": "2021-05-18T16:00:00Z",
+            "subscriberCount": 93500,
+            "comments": [
+                {
+                    "_id": "comment13",
+                    "user": {
+                        "_id": "user14",
+                        "username": "ReactBeginner",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ReactBeginner"
+                    },
+                    "content": "Just built my first React project following along! The API part was really well explained.",
+                    "createdAt": "2021-05-19T13:20:00Z"
+                },
+                {
+                    "_id": "comment14",
+                    "user": {
+                        "_id": "user15",
+                        "username": "WeatherAppDev",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=WeatherAppDev"
+                    },
+                    "content": "Added dark mode to this project as an additional feature. Thanks for the foundation!",
+                    "createdAt": "2021-05-22T09:15:00Z"
+                }
+            ]
+        },
+        {
+            "_id": "video10",
+            "title": "Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js)",
+            "videoUrl": "https://www.youtube.com/watch?v=7CqJlxBYj-M",
+            "thumbnailUrl": "https://i.ytimg.com/vi/7CqJlxBYj-M/maxresdefault.jpg",
+            "description": "In this full stack tutorial, we will build a complete exercise tracking application with MongoDB, Express, React, and Node.js. Learn how these technologies work together in a real-world application.",
+            "Channel": {
+                "_id": "channel03",
+                "channelName": "freeCodeCamp.org",
+                "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mD95kW9TeQs3qjHvrsXKGjFUFGT7SrFNKLSGPUiA=s176-c-k-c0x00ffffff-no-rj"
+            },
+            "views": 1456800,
+            "likes": 49320,
+            "dislikes": 412,
+            "uploadDate": "2019-05-30T11:45:00Z",
+            "subscriberCount": 8400000,
+            "comments": [
+                {
+                    "_id": "comment15",
+                    "user": {
+                        "_id": "user16",
+                        "username": "FullStackNewbie",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=FullStackNewbie"
+                    },
+                    "content": "This is still one of the best MERN stack tutorials even years later!",
+                    "createdAt": "2023-01-05T20:15:00Z"
+                },
+                {
+                    "_id": "comment16",
+                    "user": {
+                        "_id": "user17",
+                        "username": "DevJobSeeker",
+                        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=DevJobSeeker"
+                    },
+                    "content": "Built this project and included it in my portfolio. Got a job interview thanks to it!",
+                    "createdAt": "2023-02-12T15:30:00Z"
+                }
+            ]
+        }
+    ]
+}
