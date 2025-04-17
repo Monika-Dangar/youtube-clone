@@ -27,9 +27,6 @@ const ChannelModal = ({ isOpen, onClose, onChannelCreated }) => {
         setFormData({ ...formData, [e.target.name]: e.target.value })
     };
 
-    console.log("userId:" + owner.userId);
-
-
     const handleSubmit = async (e) => {
         e.preventDefault();
         setLoading(true);

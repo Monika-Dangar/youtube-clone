@@ -23,8 +23,6 @@ export const getVideoById = async (id) => {
 // Search with multiple filters (e.g. title, category, etc.)
 export const searchVideos = async (queryParams) => {
 
-    console.log(`queryParams: ${queryParams}`);
-
     try {
         const res = await api.get('/api/videos/search', { params: queryParams });
         return res.data;
